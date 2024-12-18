@@ -4,13 +4,13 @@ CRUD con framewok django
 
 ## Librerías
 
-*Python 3.13.1
-*django
-*django-bootstrap-v5 
-*django-crispy-forms 
-*crispy-bootstrap5
-*pip
-*virtualenv
+* Python 3.13.1
+* django
+* django-bootstrap-v5 
+* django-crispy-forms 
+* crispy-bootstrap5
+* pip
+* virtualenv
 
 ## Repositorio
 
